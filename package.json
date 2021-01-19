@@ -32,7 +32,6 @@
   ],
   "main": "index.js",
   "repository": "https://gitlab.com/barbara_p/aula-interativa.git",
-  "author": "barbarap <barbarapacheco@alunos.utfpr.edu.br>",
   "license": "MIT"
 }
 
