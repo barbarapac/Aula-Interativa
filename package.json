@@ -1,7 +1,7 @@
 {
   "name": "aula-interativa",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "axios": "^0.18.0",
@@ -32,7 +32,7 @@
   ],
   "main": "index.js",
   "repository": "https://gitlab.com/barbara_p/aula-interativa.git",
-  "author": "joaolucasvqf <joaofonseca@alunos.utfpr.edu.br>",
+  "author": "barbarap <barbarapacheco@alunos.utfpr.edu.br>",
   "license": "MIT"
 }
 
